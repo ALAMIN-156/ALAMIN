@@ -13,8 +13,8 @@ def Run():
             xoss("\x1b[1;92m[●] Congratulations ! Your Device Support this Tools 🍼🙂")
             xoss('\x1b[1;94m[●] Follow My Github First 🎈')
             os.system('xdg-open https://github.com/MrALAMIN156/')
-            from ALAMIN import real
-            real()
+            from ALAMIN import bara
+            bara()
         elif bit == '32bit':
             xoss("\n\x1b[1;92m[●] Congratulations ! Your Device Support this Tools 🍼🙂")
             xoss('\x1b[1;94m[●] Follow My Github First 🎈')
