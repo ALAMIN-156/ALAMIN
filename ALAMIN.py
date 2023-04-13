@@ -1,4 +1,4 @@
-import os, platform, time, sys
+rt os, platform, time, sys
 def xoss(z):
     for e in z + '\n':
         sys.stdout.write(e)
@@ -19,12 +19,11 @@ def Run():
             xoss("\n\x1b[1;92m[●] Congratulations ! Your Device Support this Tools 🍼🙂")
             xoss('\x1b[1;94m[●] Follow My Github First 🎈')
             os.system('xdg-open https://github.com/MrALAMIN156/')
-            from ALAMIN32 import babu
-            babu()
+            from ALAMIN332 import dime
+            dime()
         else:
             exit('\033[1;31m[●] Connection & Network Error 🤕')
 Run()
-
 
     
 
