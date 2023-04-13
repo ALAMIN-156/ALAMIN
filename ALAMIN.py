@@ -25,7 +25,6 @@ def Run():
             exit('\033[1;31m[●] Connection & Network Error 🤕')
 Run()
 
-    
 
     
     
