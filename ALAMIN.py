@@ -1,4 +1,4 @@
-rt os, platform, time, sys
+import os, platform, time, sys
 def xoss(z):
     for e in z + '\n':
         sys.stdout.write(e)
