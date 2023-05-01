@@ -1,7 +1,7 @@
 
 import os, sys
 try:
-    __import__("ALAMINANCHAR").rsbuy()
+    __import__("ALAMIN").rsbuy()
 except Exception as e:
     exit(str(e))
         
