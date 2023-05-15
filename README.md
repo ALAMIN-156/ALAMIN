@@ -44,7 +44,7 @@
 
 - `rm -rf FILE-CLONING`
 
-- `git clone https://github.com/MrALAMIN156/FILE-CLONING.git`
+- `git clone https://github.com/ALAMIN-156/FILE-CLONING.git`
 
  
 
